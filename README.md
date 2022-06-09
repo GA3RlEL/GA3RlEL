@@ -9,6 +9,7 @@
 
 
 ## Technologies what i am using
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GA3RlEL&%20notebook&theme=darcula&count-private=true)
 * HTML
 * CSS
 * JavaScript
