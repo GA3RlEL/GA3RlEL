@@ -3,7 +3,16 @@
 - 🌱 I’m currently learning advanced js and basic jquery
 - 📫 How to reach me? Just text me 😳
 
-<!---
-GA3RlEL/GA3RlEL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
+
+## Technologies what i am using
+* HTML
+* CSS
+* JavaScript
+## Technologies what i am learning
+* GIT
+* JQuery
+
