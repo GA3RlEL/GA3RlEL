@@ -16,4 +16,5 @@
 ## Technologies what i am learning
 * GIT
 * JQuery
+* Angular 
 
