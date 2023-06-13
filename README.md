@@ -2,8 +2,9 @@
 GA3RlEL
 </p>
 <p align="center">
-Quality Assurance
+Quality Assurance        
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GA3RlEL&label=Profile%20views&color=0e75b6&style=flat" alt="krzysztof-goluchowski" /> </p>
 
 ---
 
