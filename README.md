@@ -34,6 +34,11 @@ and I'm open to new challenges.
 Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GA3RlEL&theme=darcula&count-private=true&layout=compact)
+
+---
+
+### My Projects
+[Weather-app](https://github.com/GA3RlEL/weather-app) - Simple app to check what the weather is based on open-meteo API
           
                      
           
