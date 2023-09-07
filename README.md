@@ -31,6 +31,14 @@ and I'm open to new challenges.
 
 ---
 
+### Currently Learning
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<br/>
+
+---
+
 Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GA3RlEL&theme=darcula&count-private=true&layout=compact)
