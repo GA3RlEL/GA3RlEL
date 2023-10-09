@@ -4,7 +4,7 @@ GA3RlEL
 <p align="center">
 Quality Assurance        
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=GA3RlEL&label=Profile%20views&color=0e75b6&style=flat" alt="krzysztof-goluchowski" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GA3RlEL&label=Profile%20views&color=0e75b6&style=flat" alt="gabriel-kruszka" /> </p>
 
 ---
 
@@ -15,7 +15,7 @@ and I'm open to new challenges.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/gabriel-kruszka-16b6a523b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-kruszka" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gabriel-kruszka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-kruszka" height="30" width="40" /></a>
 </p>
 
 ---
