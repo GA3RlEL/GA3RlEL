@@ -4,7 +4,6 @@ GA3RlEL
 <p align="center">
 Quality Assurance        
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=GA3RlEL&label=Profile%20views&color=0e75b6&style=flat" alt="gabriel-kruszka" /> </p>
 
 ---
 
@@ -48,7 +47,8 @@ Stats:
 ---
 
 ### My Projects
-[Weather-app](https://github.com/GA3RlEL/weather-app) - Simple app to check what the weather is based on open-meteo API
+<p>[Weather-app](https://github.com/GA3RlEL/weather-app) - Simple app to check what the weather is based on open-meteo API</p>
+<p>[DST](https://dst-3.vercel.app/) - An application which can help you to organize tasks in your group (Credentials: test@test.com test123)</p>
           
                      
           
