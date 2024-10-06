@@ -12,10 +12,13 @@ Quality Assurance
 
 ---
 
-I am a self-made tech enthusiast with an ambition
-to develop my skills and to be able to handle full-stack development. I started my career in tech as
-a QA Engineer, but I'm looking to grow my skillset
-and I'm open to new challenges.
+ I am a tech enthusiast with experience in
+ quality assurance, now focusing on test
+ automation. I started as a QA Engineer and
+ want to grow my skills in automating tests.
+ I'm open to new challenges and keen to
+ improve the quality of software with
+ automation.
 
 ---
 
