@@ -36,6 +36,12 @@ Quality Assurance
 <img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
 <br />
 
+### Backend
+<img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
+<img align="left" alt="spring" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />
+<img align="left" alt="spring" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
+
+<br />
 ### Other
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 
