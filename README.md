@@ -10,15 +10,6 @@ Quality Assurance
   </a>
 </p>
 
----
-
- I am a tech enthusiast with experience in
- quality assurance, now focusing on test
- automation. I started as a QA Engineer and
- want to grow my skills in automating tests.
- I'm open to new challenges and keen to
- improve the quality of software with
- automation.
 
 ---
 
