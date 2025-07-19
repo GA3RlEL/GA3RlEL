@@ -1,5 +1,5 @@
 <p align="center">
-GA3RlEL
+Gabriel Kruszka
 </p>
 <p align="center">
 Quality Assurance        
@@ -10,12 +10,12 @@ Quality Assurance
   </a>
 </p>
 
-
 ---
 
 ## 🛠️ Languages and Tools
 
 ### 🎨 Frontend
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,12 +30,19 @@ Quality Assurance
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🧪 Testing
 
-### 🧰 Other
+![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Automation Testing](https://img.shields.io/badge/-Automation%20Testing-FF6B35?style=for-the-badge&logo=robot-framework&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=microsoft-edge&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+### 🧰 Other
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 <br/>
 
 ---
@@ -43,13 +50,10 @@ Quality Assurance
 ### 📑 Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GA3RlEL&theme=darcula&count-private=true&layout=compact)
-
 ---
 
 ### 📘 My Projects
+
 [Weather-app](https://github.com/GA3RlEL/weather-app) - Simple app to check what the weather is based on open-meteo API <br/>
 [DST](https://github.com/GA3RlEL/DST-3-nextjs) - An application which can help you to organize tasks in your group (Credentials: test@test.com test123) <br/>
 [Umbralink](https://github.com/GA3RlEL/UmbraLink) - Full-stack chat application built in Angular and Spring Boot
-          
-                     
-          
