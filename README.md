@@ -37,8 +37,13 @@ Quality Assurance
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=microsoft-edge&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Embedded Testing](https://img.shields.io/badge/-Embedded%20Testing-FF9800?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Mobile Testing](https://img.shields.io/badge/-Mobile%20Testing-8E44AD?style=for-the-badge&logo=android&logoColor=white)
+
+
 ### 🧰 Other
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
